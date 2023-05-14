@@ -99,6 +99,7 @@ Rails.application.configure do
 
   config.hosts << "0d0635f789ed48c9bdd351ff4f1b00c2.vfs.cloud9.ap-northeast-1.amazonaws.com"
   config.hosts << "13.113.87.89"
+  config.hosts << "18.181.80.178"
 
   # Inserts middleware to perform automatic connection switching.
   # The `database_selector` hash is used to pass options to the DatabaseSelector
